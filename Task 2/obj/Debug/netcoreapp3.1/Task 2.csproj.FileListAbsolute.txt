@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.exe
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.dll
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\bin\Debug\netcoreapp3.1\Task 2.pdb
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.dll
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.pdb
+D:\Documents\Visual Studio Code Projects\SberDemoDay\Task 2\obj\Debug\netcoreapp3.1\Task 2.genruntimeconfig.cache
